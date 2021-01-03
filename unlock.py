@@ -6,7 +6,7 @@ import os
 import subprocess
 import math
 
-staticimei = 866532034718895
+staticimei = 0
 quickstart = True
 
 def bruteforce(increment):
